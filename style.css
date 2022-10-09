@@ -1,0 +1,4 @@
+.pyramid {
+  display: flex;
+  flex-direction: row;
+}
